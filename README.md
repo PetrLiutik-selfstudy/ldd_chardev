@@ -1,1 +1,1 @@
-# ldd_chardev
+# Simple character device linux kernel module.
